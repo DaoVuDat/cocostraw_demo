@@ -1,0 +1,110 @@
+.product-detail-container{
+  display: block;
+  width: 100%;
+  //height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  //background-image: url("../../resources/images/ong_1.jpg");
+  min-height: 120vh;
+
+}
+
+.product-detail-description {
+  padding: 24px 150px;
+  width: 60%;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+
+
+  .product-category {
+    font-size: 32px;
+  }
+
+  .product-name {
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+  .product-price {
+    //font-size: 15px;
+    margin-top: 8px;
+  }
+
+  .product-description {
+    margin-top: 48px;
+    line-height: 2;
+  }
+
+  .product-detail-title {
+    margin-top: 48px;
+    margin-bottom: 16px;
+    font-weight: bold;
+    transition: all .25s ease;
+
+
+    div {
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    :hover {
+      color: #86a746;
+      transition: all .25s ease;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+
+}
+
+
+.product-purchase {
+  display: flex;
+  align-items: center;
+  padding: 24px 150px;
+  background: #f5f5f5;
+}
+
+.product {
+  img {
+    object-fit: contain;
+    width: 99vw;
+    height: auto;
+  }
+
+  .product-others {
+    margin: 84px 0;
+    text-align: center;
+    font-size: 32px;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+
+  .product-slider {
+
+  }
+
+  .back-to-home {
+    text-align: center;
+    margin: 100px;
+    button {
+      padding: 20px 40px;
+      border-radius: 0;
+      font-family: "Roboto Condensed", sans-serif;
+      font-size: 32px;
+      cursor: pointer;
+    }
+
+  }
+
+  .back-to-top {
+    color: white;
+    background-color: #86a746;
+    text-align: end;
+    padding: 12px 72px;
+    font-size: 32px;
+    font-family: "Roboto Condensed", sans-serif;
+    cursor: pointer;
+  }
+}

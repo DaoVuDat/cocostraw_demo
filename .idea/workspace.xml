@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1a388eb-3ce5-4bfc-8734-80909b39eb08" name="Default Changelist" comment="product page, responsive in testimonial">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cocostraw_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/cocostraw_web/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cocostraw_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/OutlineButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/OutlineButton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/basic_card/BasicCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/basic_card/BasicCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/rotate_card/RotateCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/rotate_card/RotateCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/simple_card/SimpleCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/simple_card/SimpleCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header-deprecated.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header-deprecated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/Modal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/Modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/NavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/NavBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/SideBarData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scrollToTop/ScrollToTop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/HomepageSlider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/HomepageSlider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/MultipleSlider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/MultipleSlider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/Slider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/Slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/testimonial/Testimonial.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/testimonial/Testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/SlideData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/category/hinh_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/category/hinh_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/category/hinh_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/homepage/4-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/homepage/5-01-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/homepage/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/homepage/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/homepage/company-name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/ong_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/ong_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/ong_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/ong_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/cocktail/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/cocktail/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/cocktail/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/cocktail/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/cocktail/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/fifty_ong/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/fifty_ong/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/fifty_ong/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/fifty_ong/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/twenty_ong/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/twenty_ong/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/twenty_ong/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/twenty_ong/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/products/twenty_ong/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sliders/slider_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/about-us/AboutUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/about-us/AboutUs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/homepage/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/homepage/HomepageContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/homepage/HomepageContent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/product/Product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/product/Product.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mnNhJ6KHzK1RnFiFNru91bMRow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources/images" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images\sliders" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\components\slider" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\scenes" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\scenes\homepage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images\products" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images\cocktail" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images\fifty_ong" />
+      <recent name="D:\cocostraw_web-dev-detail-product (1)\cocostraw_web-dev-detail-product\src\resources\images\twenty_ong" />
+      <recent name="$PROJECT_DIR$/src/resources/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a388eb-3ce5-4bfc-8734-80909b39eb08" name="Default Changelist" comment="" />
+      <created>1610125512928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610125512928</updated>
+      <workItem from="1610125515083" duration="310000" />
+      <workItem from="1610125865592" duration="99000" />
+      <workItem from="1610179045466" duration="1002000" />
+      <workItem from="1610181804190" duration="436000" />
+      <workItem from="1610261231769" duration="25000" />
+      <workItem from="1610261261163" duration="48000" />
+      <workItem from="1610543856840" duration="7195000" />
+      <workItem from="1610594665502" duration="4067000" />
+      <workItem from="1610627406317" duration="2238000" />
+      <workItem from="1610645135039" duration="1093000" />
+      <workItem from="1610677149190" duration="22905000" />
+      <workItem from="1610711333353" duration="9816000" />
+      <workItem from="1610726469422" duration="6279000" />
+      <workItem from="1610732905014" duration="9682000" />
+      <workItem from="1610742872568" duration="280000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel">
+      <created>1610679578841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610679578841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel">
+      <created>1610679794902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610679794902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="product page, responsive in testimonial">
+      <created>1610704580781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610704580781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel" />
+    <MESSAGE value="product page, responsive in testimonial" />
+    <option name="LAST_COMMIT_MESSAGE" value="product page, responsive in testimonial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="1265" key="FileChooserDialogImpl" timestamp="1610740480517">
+      <screen x="0" y="1080" width="1600" height="860" />
+    </state>
+    <state x="580" y="1265" key="FileChooserDialogImpl/0.0.1920.1040/0.1080.1600.860@0.1080.1600.860" timestamp="1610740480517" />
+  </component>
+</project>
